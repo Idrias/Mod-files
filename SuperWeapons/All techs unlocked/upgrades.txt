@@ -1,0 +1,71 @@
+Name	Composite Rebars	Ultrasonic Structure Monitors	Electromagnetic Dampening	Anti-Radar Coating	Fast Breeder Reactors	Heat Cell Installation	Superconducting Grid Access	Adaptive Solar Cells	Concentrated Photovoltaic Cells	Multi-Stage Refinery	Molecular Biorefinery	Autonomous Mining Robotics	On-Site Biorefining	Autonomous Nodule Recovery	Ultrasonic Pulse Unit	Lidar Unit	Masked Communication Interlink	Radar Astronomy Unit	Active Interference Generator	Enemy Surveillance Analysis Center	Data Processing Center	Optimized Activation Sequence	Planetary Hull Projection	Optimized Target Leading	Base Bleed Munitions	Continuous Standby	Helical Barrels	Descent Phase Boosters	Heavyweight Projectiles	Dual Shot Support	Reusable Projectile Carriers	Superhardened Penetrators	Radioactive Payloads	Magnetic Beam Concentrators	Bioeffective Frequency Alternator	EM Drives	Nuclear Penetrator	Biohazardous Warheads	High Density Rocketfuel	High Altitude Breakdown	Coordinated Flocking	On-Site Ejector Assembly	Asteroid Density Analysis	Asteroid Substance Analysis	AI Facility Control	Concentrated Pulse Beam	Constant Low-Density Beam
+Id	HP+	HP++	Stealth+	Stealth++	NuclearMaterialDrainDown	NuclearEnergy+	NuclearEnergy++	SolarEnergy+	SolarEnergy++	MineEfficiency+	MineMaterial+	MineMaterial++	OceanMineEfficiency+	OceanMineMaterial+	OceanMineMaterial++	IntelIntel+	IntelCintel+	IntelScience+	CintelCintel+	CintelIntel+	CintelScience+	ShieldCostDown	ShieldRange+	KineticCostDown	KineticRange+	KineticProbability+	RailgunAllDamage+	RailgunRadius+	RailgunSplit+	RailgunAmount+	RailgunCostDown	RailgunDamage+	RailgunPopDamage+	LaserDamage+	LaserPopDamage+	MissileCostDown	MissileDamage+	MissilePopDamage+	MissileSeekRange+	AsteroidRadius+	AsteroidAmount+	AsteroidCostDown	AsteroidDamage+	AsteroidPopDamage+	SolarLaserCostDown	SolarLaserDamage+	SolarLaserPopDamage+
+Category	Defense	Defense	Defense	Defense	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Production	Defense	Defense	Defense	Defense	Defense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense	Offense
+Category_OrderNumber	1	1	1	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	1	1	1	1	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+In_Category_Order	2	1	4	3	4	3	2	3	2	4	3	2	4	3	2	3	4	5	3	4	5	3	4	4	3	2	2	5	6	7	8	3	4	4	5	7	3	4	6	6	5	7	3	4	6	4	5
+Upgrade_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Limit_Amount	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+Icon	UPG_hp	UPG_hp_plus	UPG_stealth_boost	UPG_stealth_boost_plus	UPG_material_cost_down	UPG_energy_yield	UPG_energy_yield_plus	UPG_energy_yield	UPG_energy_yield_plus	UPG_efficiency	UPG_material_yield	UPG_material_yield_plus	UPG_efficiency	UPG_material_yield	UPG_material_yield_plus	UPG_Int_boost	UPG_counter_int_boost	UPG_science_boost	UPG_counter_int_boost	UPG_Int_boost	UPG_science_boost	UPG_energy_cost_down	UPG_defense_range	UPG_energy_cost_down	UPG_defense_range	UPG_defense_probab	UPG_damage_boost	UPG_aoe_increase	UPG_projectile_amount	UPG_shot_amount	UPG_energy_cost_down	UPG_damage_boost	UPG_popdamage_boost	UPG_damage_boost	UPG_popdamage_boost	UPG_energy_cost_down	UPG_damage_boost	UPG_popdamage_boost	UPG_lockin_dist	UPG_aoe_increase	UPG_projectile_amount	UPG_energy_cost_down	UPG_damage_boost	UPG_popdamage_boost	UPG_energy_cost_down	UPG_damage_boost	UPG_popdamage_boost
+Description	Composite Rebars increase building HP.	Ultrasonic Structure Monitors increase building HP.	Electromagnetic Dampening increases building Stealth.	Anti-Radar Coating increases building Stealth.	Fast Breeder Reactors decrease Nuclear Plant's Material consumption.	Heat Cell Installations increase Nuclear Plant's Energy production.	Superconducting Grid Access increases Nuclear Plant's Energy production.	Adaptive Solar Cells increase Solar Plant's Energy production.	Concentrated Photovoltaic Cells increase Solar Plant's Energy production.	Multi-Stage Refineries decrease Mine's Planet Material consumption.	Molecular Biorefineries increase Mine's Material production.	Autonomous Mining Robotics increase Mine's Material production.	On-Site Biorefining decreases Offshore Mine's Planet Material consumption.	Autonomous Nodule Recovery increases Offshore Mine's Material production.	Ultrasonic Pulse Units increase Offshore Mine's Material production.	Lidar Units increase Telescope Array's Intelligence generation.	Masked Communication Interlink increases Telescope Array's Counterintelligence generation.	Radar Astronomy Unit increases Telescope Array's Science production.	Active Interference Generator increases Data Security Hub's Counterintelligence generation.	Enemy Surveillance Analysis Center increases Data Security Hub's Intelligence Generation.	Data Processing Center increases Data Security Hub's Counterintelligence generation.	Optimized Activation Sequence decreases Shield's Activation Cost.	2nd Gen. Projection increases Shield's Range.	Optimized Target Leading decreases Kinetic Defense's Activation Cost.	Base Bleed Munitions increase Kinetic Defense's Range.	Continuous Standby increases Kinetic Defense's Success Rate.	Helical Barrels increase Railgun's Damage.	Descent Phase Boosters increase Railgun's Area of Effect.	Heavyweight Projectiles increase Railgun's Fragment Amount.	Dual Shot Support increases Railgun's Projectile Amount.	Reusable Projectile Carriers reduce Railgun's Firing Cost.	Superhardened Penetrators increase Railgun's Building Damage.	Radioactive Payloads increase Railgun's Population Damage.	Magnetic Beam Concentrators increase Laser's Building Damage.	Bioeffective Frequency Alternators increase Laser's Population Damage	EM Drives decrease Missile's Firing Cost.	Nuclear Penetrators increase Missile's Building Damage.	Biohazardous Warheads increase Missile's Population Damage.	High Density Rocketfuel increases Missile's Lock-On Range.	High Altitude Breakdown increases Asteroid Diversion's Area of Effect.	Coordinated Flocking increases Asteroid Diversion's Projectile Amount.	On-Site Ejector Assembly decreases Asteroid Diversion's Firing Cost.	Asteroid Density Analysis increases Asteroid Diversion's Building Damage.	Asteroid Substance Analysis increases Asteroid Diversion's Population Damage.	AI Facility Control decreases Solar Laser's Firing Cost.	Concentrated Pulse Beam increases Solar Laser's Building Damage.	Constant Low-Density Beam increases Solar Laser's Population Damage.
+Material_cost_build	150	175	125	150	150	150	200	200	250	75	150	200	100	150	200	175	150	250	175	150	250	250	250	250	250	250	250	200	225	300	150	250	250	250	250	150	250	250	200	250	250	200	250	250	200	250	250
+Material_cost_remove																																															
+Material_extract_type1_turn																																															
+Material_extract_type2_turn																																															
+Material_extract_type3_turn																																															
+Material_extract_modifier										0.7	1.75	1.5	0.7	1.75	1.5																																
+Material_yield_turn																																															
+Material_yield_modifier											1.75	4		1.75	4																																
+Material_cost_per_turn																																															
+Material_cost_per_turn_modifier					0.5	1.2	1																																								
+Energy_cost_build	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100
+Energy_cost_remove																																															
+Energy_yield_turn																																															
+Energy_yield_modifier						1.75	4	1.75	2																																						
+Energy_cost_per_turn																																															
+Energy_cost_per_turn_modifier																1.6	1.4		1.6	1.4																											
+Science_cost_build	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Science_cost_remove																																															
+Science_yield_turn																		20																													
+Science_yield_modifier																																															
+Intelligence_cost_build																																															
+Intelligence_cost_remove																																															
+Intelligence_yield_turn																				7	42																										
+Intelligence_yield_modifier																1.5		0.75																													
+Counterintelligence_cost_build																																															
+Counterintelligence_cost_remove																																															
+Counterintelligence_yield_turn																	7				42																										
+Counterintelligence_yield_modifier																			1.75		1																										
+Tech_requirements	tech_16	tech_46	tech_27	tech_37	tech_21	tech_32	tech_41	tech_12	tech_32	tech_12	tech_22	tech_52	tech_33	tech_42	tech_52	tech_24	tech_34	tech_45	tech_27	tech_37	tech_47	tech_57	tech_57	tech_26	tech_35	tech_35	tech_45	tech_25	tech_25	tech_45	tech_23	tech_14	tech_23	tech_65	tech_64	tech_44	tech_53	tech_63	tech_44	tech_84	tech_84	tech_82	tech_82	tech_83	tech_85	tech_85	tech_86
+Building_requirements																																															
+Project_requirements																																															
+Upgrade_requirements																																															
+TurnsToBuild	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+TurnsToRemove																																															
+Health																																															
+Health_modifier	1.5	2																																													
+Stealth																																															
+Stealth_modifier		0.7	1.35	1.7			0.7		0.7			0.7			0.7																																
+Range																																															
+Range_modifier																							1000	0.95	1.25																						
+Intercept																																															
+Intercept_modifier																																															
+Probability																																															
+Probability_modifier																						2	0.5		0.9	1.15																					
+Damage																																															
+Damage_modifier																											1.5	0.9				1.75	0.9	1.25	0.95		1.25	0.95		0.9			1.5	0.9	0.9	1.25	0.95
+Damage_to_population																																															
+Damage_to_population_modifier																											1.5	0.9				0.9	1.75	0.95	1.25		0.95	1.25		0.9			0.9	1.5	0.9	0.95	1.25
+ShootCost																																															
+ShootCost_modifier																													1.4	1.8	0.75					0.8			1.1		1.15	0.7			0.7		
+Radius																																															
+Radius_modifier																								1			0.85	1.3												1.3							
+FlightDuration																																															
+FlightDuration_modifier																																															
+SplitAmount																													2		-1																
+SplitAmount_modifier																																															
+SeekRange																																															
+SeekRange_modifier																																				0.6			2								
+ShieldActivationCost																																															
+ShieldActivationCostModifier																						0.01	20	0.75		1.2																					
+ProjectileAmount																														1											3	-2					
+ProjectileAmount_modifier																																															

@@ -1,0 +1,31 @@
+name	Mass Biochemical Processing	Self-Adjusting Optics	2nd Gen. Composites	4th Gen. Nuclear Reactors	Molecular Recycling	Uranium Alloys	Advanced Signal Processing	Octaazacubane	Maglev Servos	Magnetic Radiation Shielding	Smart Grids	Composite Heat Cells	Super Tensile Materials	Orbital Assembly	Early Warning AI	Vertical Farming	Metamaterials	Lossless Energy Transfer	Quantum Computing	Designer Nanomaterials	EM Drives	Ultracapacitors	Ultrasonic Projection	Quantum Communications	Experimental Matter Control	Robotic Mining	Onboard Targeting AI	AI Target Tracking	Gamma Ray Lasers	Advanced Genetics	Magnetic Lensing	Tailored Pathogens	Biodisruptive Frequencies	High Power Particle Beams	Mass Drivers	Orbital Manufacturing	Autonomous Orbital Assembly	Advanced Spectral Analysis	Gravity Well Mapping	Atomic Refineries	Gravitational Lensing
+id	tech_12	tech_14	tech_16	tech_21	tech_22	tech_23	tech_24	tech_25	tech_26	tech_27	tech_31	tech_32	tech_33	tech_34	tech_35	tech_36	tech_37	tech_41	tech_42	tech_43	tech_44	tech_45	tech_46	tech_47	tech_51	tech_52	tech_53	tech_54	tech_55	tech_56	tech_57	tech_63	tech_64	tech_65	tech_73	tech_75	tech_82	tech_83	tech_84	tech_85	tech_86
+tooltip																																									
+tech_position	4	7	10	3	4	6	7	8	10	11	2	3	5	7	9	10	12	2	4	5	7	8	10	12	3	4	6	7	8	10	11	6	8	9	6	9	5	6	7	9	10
+parent_ids				tech_12	tech_12	tech_14	tech_14	tech_14	tech_16	tech_16	tech_21	tech_21	tech_22	tech_24	tech_26	tech_26	tech_27	tech_31	tech_33	tech_33	tech_34	tech_34	tech_36	tech_37	tech_42	tech_42	tech_44	tech_44	tech_44	tech_46	tech_46	tech_53	tech_55	tech_55	tech_63	tech_65	tech_73	tech_73	tech_73	tech_75	tech_75
+tech_requirement_ids				tech_12	tech_12	tech_14	tech_14	tech_14	tech_16	tech_16	tech_21	tech_21	tech_22	tech_24	tech_26	tech_26	tech_27	tech_31	tech_33	tech_33	tech_34	tech_34	tech_36	tech_37	tech_42	tech_42	tech_44	tech_44	tech_44	tech_46	tech_46	tech_53	tech_55	tech_55	tech_63	tech_65	tech_73	tech_73	tech_73	tech_75	tech_75
+project_requirement_ids																																									
+building_requirement_ids																																									
+upgrade_requirement_ids																																									
+tier	1	1	1	2	2	2	2	2	2	2	3	3	3	3	3	3	3	4	4	4	4	4	4	4	5	5	5	5	5	5	5	6	6	6	7	7	8	8	8	8	8
+icon																																									
+tech_points	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+pop_global_modifier																																									
+pop_growth_global_modifier																																									
+pop_global_yield																																									
+science_global_modifier																																									
+science_global_yield																																									
+intelligence_global_modifier																																									
+intelligence_global_yield																																									
+counterintelligence_global_modifier																																									
+counterintelligence_global_yield																																									
+production_global_modifier																																									
+production_global_yield																																									
+material_global_modifier																																									
+material_yield																																									
+material_cost_modifier																																									
+energy_global_modifier																																									
+energy_yield																																									
+energy_cost_modifier																																									
+morale_global_modifier																																									
+morale_global_yield																																									

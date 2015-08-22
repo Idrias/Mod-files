@@ -1,0 +1,38 @@
+name	Railgun	Missile	Laser	Asteroid Diversion	Solar Laser
+id	projectile_railgun	projectile_missile	projectile_laser	projectile_asteroid	projectile_solaser
+icon					
+flight_duration	21	21	1	21	1
+parent_type					
+child_type					
+hitpoints					
+visibility					
+targeting		1	1		1
+fallout					
+fallout_radius					
+duration					
+damage	225	200	200	3500	7000
+damage_to_population	225	240	240	8000	7000
+radius	3.5	2.1	0.5	10	5
+accuracy		10			
+mass	1	1	0	1	0
+min_angle					
+max_angle					
+min_velocity	2	2	12	2	12
+max_velocity	12	12	12	12	12
+speed	1	1	100	1	100
+*Doesn't do anything for others than railgun					
+max_split_range	50			50	
+*When railgun splits, how far away from each other the splits even up.					
+min_split_distance	8			10	
+max_split_distance	12			16	
+*Does not do anything at the moment					
+split_angle_factor	1			1	
+*How many smaller projectiles a railgun projectile is split into					
+split_amount	4			1	
+*How far away from target planet projectile locks on					
+seeking_range		35			
+intercepting_defences	defense_forcefield,defense_kinetic	defense_forcefield,defense_kinetic	defense_forcefield		
+*How far from planet surface the projectile circles to find the spot it was targeted at					
+orbit_height		20			1.2
+*How many projectiles does the weapon shoot					
+projectile_amount				10	

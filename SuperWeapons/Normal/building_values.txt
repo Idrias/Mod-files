@@ -1,0 +1,55 @@
+name	Nuclear Plant	Solar Plant	Mine	Offshore Mine	Telescope Array	Data Security Hub	Shield Defense	Kinetic Defense	Railgun	Laser	Missile	Asteroid Diversion	Solar Laser
+id	power_nuclear	power_solar	mine_normal	mine_water	intel_array	intel_hub	defense_forcefield	defense_kinetic	attack_railgun	attack_laser	attack_missile	attack_asteroid	attack_solaser
+tooltip	Nuclear Plants produce Energy, consuming some Material.	Solar Plants produce Energy.	Mines produce Material.	Offshore Mines produce Material and can only be built on water.	Telescope Arrays produce Intelligence, consuming a small amount of Energy.	Data Security Hubs produce Counterintelligence, consuming a small amount of Energy.	Shield Defenses protect against Lasers and Railguns.	Kinetic Defenses protect against Missiles and Railguns, with a certain degree of accuracy.	Railguns split into multiple projectiles when close to an enemy planet.	Lasers are very accurate and unaffected by gravity.	Missiles lock-in to a specific targeted structure.	Asteroid Diversion uses asteroids to attack the enemy planets.	Solar Laser is unaffected by gravity and fired from a sun's orbit.
+tech_requirements_ids	tech_21			tech_33	tech_24	tech_27	tech_46	tech_26		tech_55	tech_34	tech_73	tech_75
+build_requirements_ids													
+project_requirements_ids													
+upgrades	HP+,HP++,Stealth+,Stealth++,NuclearMaterialDrainDown,NuclearEnergy+,NuclearEnergy++,NuclearSuper	HP+,HP++,Stealth+,Stealth++,SolarEnergy+,SolarEnergy++,SolarSuper	HP+,HP++,Stealth+,Stealth++,MineEfficiency+,MineMaterial+,MineMaterial++,MineSuper	HP+,HP++,Stealth+,Stealth++,OceanMineEfficiency+,OceanMineMaterial+,OceanMineMaterial++,OceanMineSuper	HP+,HP++,Stealth+,Stealth++,IntelEnergyDrainDown,IntelIntel+,IntelIntel++,IntelCintel+,IntelScience+,IntelSuper	HP+,HP++,Stealth+,Stealth++,CintelEnergyDrainDown,CintelCintel+,CintelCintel++,CintelIntel+,CintelScience+,CintelSuper	HP+,HP++,Stealth+,Stealth++,ShieldCostDown,ShieldRange+,ShieldSuper	HP+,HP++,Stealth+,Stealth++,KineticCostDown,KineticRange+,KineticProbability+,KineticSuper	HP+,HP++,Stealth+,Stealth++,RailgunAllDamage+,RailgunRadius+,RailgunSplit+,RailgunAmount+,RailgunCostDown,RailgunDamage+,RailgunPopDamage+,RailgunSuper	HP+,HP++,Stealth+,Stealth++,LaserAllDamage+,LaserAllDamage+2,LaserCostDown,LaserDamage+,LaserPopDamage+,LaserSuper	HP+,HP++,Stealth+,Stealth++,MissileAllDamage+,MissileRadius+,MissileCostDown,MissileDamage+,MissilePopDamage+,MissileSeekRange+,MissileSuper	HP+,HP++,Stealth+,Stealth++,AsteroidAllDamage+,AsteroidRadius+,AsteroidAmount+,AsteroidCostDown,AsteroidDamage+,AsteroidPopDamage+,AsteroidSuper	HP+,HP++,Stealth+,Stealth++,SolarLaserAllDamage+,SolarLaserAllDamage+2,SolarLaserCostDown,SolarLaserDamage+,SolarLaserPopDamage+,SolarLaserSuper
+icon													
+hitpoints	400	350	300	350	300	250	250	300	250	300	350	250	250
+condition													
+visibility	35	35	25	25	5	5	15	15	15	15	15	5	5
+scale													
+building_size_radius	1.5	1.4	1.3	1.2	1.2	1.2	1	1	1.3	1.3	1.3	1.6	1.6
+building_range_radius							5	5.5					
+material_cost_per_build	450	400	300	350	300	300	300	200	400	500	450	2000	2000
+material_cost_per_turn	50												
+material_cost_per_repair	225	200	150	175	125	115	175	150	200	250	250	1000	1000
+material_cost_use													
+material_extract_type1_per_turn			150	225									
+material_extract_type2_per_turn													
+material_extract_type3_per_turn													
+material_yield_per_turn			100	150									
+material_yield_per_use													
+material_yield_per_sell	360	320	240	280	240	240	240	160	320	400	360	1600	1600
+power_cost_per_build	250	250	300	300	200	200	200	200	250	250	250	500	500
+power_cost_per_turn					20	25							
+power_cost_per_use							3000	200	200	300	300	700	800
+power_cost_per_repair	150	150	150	150	150	150	150	150	150	150	150	150	150
+power_yield_per_turn	200	100											
+power_yield_per_use													
+power_yield_per_sell	0	0	0	0	0	0	0	0	0	0	0	0	0
+intel_yield_per_turn					12								
+intel_yield_per_use													
+counterintel_yield_per_turn						9							
+counterintel_yield_per_use													
+science_yield_per_turn													
+power_requirement													
+power_connectors	5	3	2	2	2	2	1	1	1	1	1	1	1
+power_range_radius	7	7	6	5	5	5	4	4	5	5	5	4	4
+power_multiplier													
+defence_modifier_railgun													
+defence_modifier_laser													
+defence_modifier_missile													
+buildable_on_land	1	1	1		1	1	1	1	1	1	1	1	1
+buildable_on_water				1									
+defence_intercept_probability							100	80					
+powergrid_connection_delay	0.17												
+powergridline_min_size	0.001												
+powergridline_max_size	0.2												
+construction_turns	1	1	1	1	1	1	1	1	1	1	1	1	1
+ruins_turns	10	3	3	3	3	3	3	3	3	3	3	3	3
+ruins_remove_cost_energy	200	200	200	200	200	200	200	200	200	200	200	200	200
+ruins_remove_cost_material	0	0	0	0	0	0	0	0	0	0	0		0
+unique_buildings	0	0	0	0	0	0	0	0	0	0	0	1	1
+upgrade_slots	2	2	2	2	2	2	2	2	2	2	2	2	2

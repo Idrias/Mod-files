@@ -1,0 +1,50 @@
+Changelog v1.0, Prototype 1:
+	
+	General:
+		- Nuclear power plant now has 5 power connectors
+		- Shields now also protect against missiles
+		- Range of Solar Laser and Asteroid Diversion attacks increased (range x ~2)
+		- Orbital Assembly, Gamma Ray Lasers, Autonomous Orbital Assembly, Advaced Spectral Analysis, Gravity Well Mapping, Atomic Refineries, Gravitational Lensing techs now unlocked from the beginning
+
+	Lossless Energy Transfer (Technology):
+		- Now costs 1200 research points instead of 650
+		- SSTAR Reactor Trials (Project): Now leaves global material yield unchanged and instead sets global energy yield to 4xNormal (+300%)
+		- Advanced Munitions Factory (Project): Now reduces fire cost by 75%
+		- Superconducting Grid Access (Upgrade): Increases nuclear power plant energy yield by 100%, material cost x 1.3
+
+	Experimental Matter Control (Technology):
+		- Now costs 1200 research points instead of 1000
+		- Electromagnetic Jamming (Project): Now adds (local) 10000 city stealth, sets global population yield to x0.9, global science yield to x1.25
+		  (Background: Electromagnetic Jamming completly hides any city signals from the enemy's radar. Scientists are now able to have high signal noise experiments without the
+	           enemy noticing. Death rate is increased due to the ongoing Jamming)
+		- Rare material synthesis (Project): Global material yield now x3
+
+	Robotic Mining (Technology):
+		- Now costs 1200 research points instead of 900
+		- Ultrasonic Pulse Unit (Upgrade): Material yield x4, material consumption x1.5
+		- Autonomous Mining Robotics (Upgrade): Material yield x4, material consumption x1.5
+
+	Advanced Genetics (Technology):
+		- Now costs 1200 research points instead of 1000
+		- Cloning Initiative (Project): Increases local population yield by factor 200 for one turn, resulting in maximized population 
+		- Covert Humanoid Experimentation: Increase your science yield by factor 10, population LOSS of 5x normal population yield
+		(Background: As soon as cloning is a real thing in your empire, your scientists beg to be able to conduct some more... delicate
+		experiments. This crude method is able to wipe out entire cities, yet results in enormous breakthrougs in science)
+
+	Magnetic Lensing (Technology):
+		- Now costs 1200 research points instead of 800
+		- 2nd Gen Projection -> Now called Planetary Hull Projection
+		- Planetary Hull Projection (Upgrade): Defending chance x0.5, shield covers entire planet, activation cost x20
+		- Optimized Activation Sequence (Upgrade): Defending chance x 2, activation cost x0.01, 3 turns to build
+		(Background: Planetary Hull Projection will result in a gigantic force field covering ever last spot of the planet. Such a huge shield consumes inmense ammounts of energy and 
+		has a much higher failure rate than the normal shields. To increase the defense probability and reduce the cost caused by false alarms, your scientists calibrate the shield. This
+		takes 3 rounds.)
+
+	Quantum Communications (Technology):
+		- Now costs 1200 research points instead of 550
+		- Behavioral Pattern Analysis (Project): global Intelligence yield x10
+		- Quantum Encryption Hub (Project): global Counterintelligence yield x20
+		- Data Processing Center (Upgrade): Intelligence yield / t +42, Counterintelligence yield / t +42
+		(Background: Using Quantum Communications, your spies can analyse and encrypt LOTS of data. And by lots I mean 10-20 times as much. Looking at already gathered intel we will be able
+		to predict where the enemy is going to place his next buildings) 
+

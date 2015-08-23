@@ -1,4 +1,4 @@
-# Mod-files
+# Advanced Technologies
 There are two versions of the mod. 
 Choose the one you want (All techs unlocked or Normal) and copy all contents of the folder into
 /Interplanetary/Interplanetary_Data/StreamingAssets/Data folder. 

@@ -1,11 +1,7 @@
 Changelog v1.1, 
 
 Prototype 2:
-	
-	General:
-		- Shields now dont protect against missiles (like in vanilla)
-		- Ultrasonic Projection now unlocked for all
-		- Missiles locked again
+		- fixed advanced technology & superweapon research pricing
 
 Prototype 1:
 	

@@ -31,7 +31,7 @@ split_angle_factor	1			1
 split_amount	4			1	
 *How far away from target planet projectile locks on					
 seeking_range		35			
-intercepting_defences	defense_forcefield,defense_kinetic	defense_kinetic	defense_forcefield		
+intercepting_defences	defense_forcefield,defense_kinetic	defense_forcefield,defense_kinetic	defense_forcefield		
 *How far from planet surface the projectile circles to find the spot it was targeted at					
 orbit_height		20			1.2
 *How many projectiles does the weapon shoot					

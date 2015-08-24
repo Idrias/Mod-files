@@ -1,4 +1,13 @@
-Changelog v1.0, Prototype 1:
+Changelog v1.1, 
+
+Prototype 2:
+	
+	General:
+		- Shields now dont protect against missiles (like in vanilla)
+		- Ultrasonic Projection now unlocked for all
+		- Missiles locked again
+
+Prototype 1:
 	
 	General:
 		- Nuclear power plant now has 5 power connectors
